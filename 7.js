@@ -1,0 +1,1 @@
+console.log(flatten([1,[2,[3]]]))
